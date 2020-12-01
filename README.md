@@ -2,28 +2,29 @@
  This is a repository that contains my solutions to Advent of Code 2020.
 
 # Progress
- -Day 1 - SOLVED
- -Day 2 - Yet to be solved
- -Day 3 - Yet to be solved
- -Day 4 - Yet to be solved
- -Day 5 - Yet to be solved
- -Day 6 - Yet to be solved
- -Day 7 - Yet to be solved
- -Day 8 - Yet to be solved
- -Day 9 - Yet to be solved
- -Day 10 - Yet to be solved
- -Day 11 - Yet to be solved
- -Day 12 - Yet to be solved
- -Day 13 - Yet to be solved
- -Day 14 - Yet to be solved
- -Day 15 - Yet to be solved
- -Day 16 - Yet to be solved
- -Day 17 - Yet to be solved
- -Day 18 - Yet to be solved
- -Day 19 - Yet to be solved
- -Day 20 - Yet to be solved
- -Day 21 - Yet to be solved
- -Day 22 - Yet to be solved
- -Day 23 - Yet to be solved
- -Day 24 - Yet to be solved
- -Day 25 - Yet to be solved
+<!-- Task List -->
+* [x] Day 1
+* [ ] Day 2
+* [ ] Day 3
+* [ ] Day 4
+* [ ] Day 5
+* [ ] Day 6
+* [ ] Day 7
+* [ ] Day 8
+* [ ] Day 9
+* [ ] Day 10
+* [ ] Day 11
+* [ ] Day 12
+* [ ] Day 13
+* [ ] Day 14
+* [ ] Day 15
+* [ ] Day 16
+* [ ] Day 17
+* [ ] Day 18
+* [ ] Day 19
+* [ ] Day 20
+* [ ] Day 21
+* [ ] Day 22
+* [ ] Day 23
+* [ ] Day 24
+* [ ] Day 25
