@@ -1,3 +1,6 @@
+//These are the solutions for both parts of Day 3.
+//Solutions were implemented in JS using Arrays & Loops.
+
 fs = require('fs')
 let array = fs.readFileSync('input.txt', 'utf8').split('\n');
 

@@ -6,6 +6,7 @@ let array = fs.readFileSync('input.txt', 'utf8').split('\n');
 
 //Just a function to allow me to parse the needed parameters.
 //This function will return the parameters in an array.
+
 function valueCleaner(input) {
   mainArr = input.split(':');
   beforeColon = mainArr[0];
