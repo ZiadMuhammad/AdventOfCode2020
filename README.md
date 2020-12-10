@@ -15,4 +15,4 @@
 | ✔ [Day 7: Handy Haversacks](https://github.com/ZiadMuhammad/AdventOfCode2020/tree/main/Day%207)| ✅| ✅|
 | ✔ [Day 8: Handheld Halting](https://github.com/ZiadMuhammad/AdventOfCode2020/tree/main/Day%208)| ✅| ✅|
 | ✔ [Day 9: Encoding Error](https://github.com/ZiadMuhammad/AdventOfCode2020/tree/main/Day%209)| ✅| ✅|
-| ✔ [Day 10: Adapter Array]()| ✅| ✅|
+| ✔ [Day 10: Adapter Array](https://github.com/ZiadMuhammad/AdventOfCode2020/tree/main/Day10)| ✅| ✅|
