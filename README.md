@@ -1,30 +1,17 @@
-# AdventOfCode2020
+# Advent of Code 2020 🌟
  This is a repository that contains my solutions to Advent of Code 2020 in Javascript/Node.js.
 
 # Progress
 <!-- Task List -->
-* [x] Day 1
-* [x] Day 2
-* [x] Day 3
-* [x] Day 4
-* [x] Day 5
-* [x] Day 6
-* [x] Day 7
-* [x] Day 8
-* [x] Day 9
-* [ ] Day 10
-* [ ] Day 11
-* [ ] Day 12
-* [ ] Day 13
-* [ ] Day 14
-* [ ] Day 15
-* [ ] Day 16
-* [ ] Day 17
-* [ ] Day 18
-* [ ] Day 19
-* [ ] Day 20
-* [ ] Day 21
-* [ ] Day 22
-* [ ] Day 23
-* [ ] Day 24
-* [ ] Day 25
+
+| Day  | Part One | Part Two | 
+|---|:---:|:---:|
+| ✔ [Day 1: Report Repair](https://github.com/ZiadMuhammad/AdventOfCode2020/tree/main/Day%201)| ✅| ✅|
+| ✔ [Day 2: Password Philosophy](https://github.com/ZiadMuhammad/AdventOfCode2020/tree/main/Day%202)| ✅| ✅|
+| ✔ [Day 3: Toboggan Trajectory](https://github.com/ZiadMuhammad/AdventOfCode2020/tree/main/Day%203)| ✅| ✅|
+| ✔ [Day 4: Passport Processing](https://github.com/ZiadMuhammad/AdventOfCode2020/tree/main/Day%204)| ✅| ✅|
+| ✔ [Day 5: Binary Boarding](https://github.com/ZiadMuhammad/AdventOfCode2020/tree/main/Day%205)| ✅| ✅|
+| ✔ [Day 6: Custom Customs](https://github.com/ZiadMuhammad/AdventOfCode2020/tree/main/Day%206)| ✅| ✅|
+| ✔ [Day 7: Handy Haversacks](https://github.com/ZiadMuhammad/AdventOfCode2020/tree/main/Day%207)| ✅| ✅|
+| ✔ [Day 8: Handheld Halting](https://github.com/ZiadMuhammad/AdventOfCode2020/tree/main/Day%208)| ✅| ✅|
+| ✔ [Day 9: Encoding Error](https://github.com/ZiadMuhammad/AdventOfCode2020/tree/main/Day%209)| ✅| ✅|
